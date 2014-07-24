@@ -1,0 +1,25 @@
+{
+  "name": "mylesson",
+  "version": "0.0.0",
+  "authors": [
+    "Niall Beard <niallbeard@gmail.com>"
+  ],
+  "description": "This is my first lesson on the lesson manager",
+  "main": "index.html",
+  "keywords": [
+    "first",
+    "lesson",
+    "this",
+    "is",
+    "my"
+  ],
+  "license": "MIT",
+  "homepage": "http://niallbeard.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
